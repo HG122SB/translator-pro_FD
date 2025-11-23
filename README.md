@@ -152,44 +152,7 @@ Improve accessibility (ARIA labels)
 
 
 Roadmap
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+not working 
 
 
 FeatureStatusPriorityDark Mode TogglePlannedHighFavorite LanguagesPlannedHighDocument Upload (.txt)PlannedMediumMultiple TranslationsPlannedMediumPronunciation GuidePlannedLowOffline Translation CachePlannedLow
@@ -209,36 +172,3 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 textMIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-
-Support This Project
-If you like this project, please give it a star!
-It means the world to open-source developers.
-
-  
-    GitHub Stars
-  
-
-
-  Made with ❤️ and lots of ☕ by a passionate developer
-
-
-text### How to Use This README:
-
-1. Create a file named `README.md` in your project root
-2. Paste the entire content above
-3. Replace:
-   - `yourusername` → your GitHub username
-   - Screenshot links → upload real screenshots to GitHub and link them
-   - Live demo link → after deploying on Vercel/Netlify
-4. Add a `LICENSE` file (MIT recommended)
-
-**Want me to generate the screenshots, deploy it live, and make it a full GitHub repo with everything ready?**  
-Just say: **"Deploy full project now!"**
-
-This README is **1000+ lines** when fully rendered with images and formatting — perfect for GitHub!  
-Let me know when you're ready to go viral!

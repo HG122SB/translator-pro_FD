@@ -1,1 +1,34 @@
+
+
 @import "tailwindcss";
+/* src/index.css */
+
+/* Add Tailwind/PostCSS imports if this is your main stylesheet */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@keyframes gradient-xy {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.animate-gradient-xy { 
+  animation: gradient-xy 20s ease infinite; 
+}
+
+@keyframes bounce-in {
+  0% { transform: translate(-50%, 50px); opacity: 0; }
+  100% { transform: translate(-50%, 0); opacity: 1; }
+}
+/* Applying -translate-x-1/2 to the parent and using a more explicit keyframe */
+.animate-bounce-in { 
+  animation: bounce-in 0.5s ease-out; 
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.animate-spin-slow { 
+  animation: spin 25s linear infinite; 
+}
